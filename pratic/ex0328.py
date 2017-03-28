@@ -15,3 +15,6 @@ min = np.min(nparr)
 
 # 加权平均数
 average = np.average(t,weights=nparr)
+
+sum = np.sum(t)
+ptp = np.ptp(t)
